@@ -6,7 +6,7 @@
 ### Installation
 The training environment (PyTorch and dependencies) can be installed as follows:
 ```
-cd SCARL
+cd TAAT
 pip install -r requirements.txt
 ```
 ### If you want to evaluate the pre-trained model on CIFAR-10, 
