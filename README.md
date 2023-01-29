@@ -1,6 +1,6 @@
 
 ## Introduction
-### This is the implementation of ["TAAT: Robustness Exploration of Semantic Information in Adversarial Training"]
+### This is the implementation of ["TAAT: Learning a Robust Feature Space via Topology Aligning with Knowledge Guided"]
 
 ## Usage
 ### Installation
