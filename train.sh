@@ -1,0 +1,16 @@
+CUDA_VISIBLE_DEVICES=1 python train.py \
+    --init_model_pass=latest \
+    --log_step=100 \
+    --max_epoch=200 \
+    --decay_epoch1=100 \
+    --decay_epoch2=150 \
+    --decay_epoch3=220 \
+    --batch_size_train=128 \
+    --test_batch=100 \
+    --lr_max=0.1 \
+    --dataset=cifar10 \
+    --net_type=pre-res \
+    --depth=18 \
+    --widen_factor=10 \
+    --net_module='TOPO' \
+    --save_name=cifar10-test
