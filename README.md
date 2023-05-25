@@ -24,8 +24,8 @@ TAAT best checkpoint on CIFAR-10
 ==> pgd eval:54.70, using time:0:05:09 
 ==> cw eval:51.97, using time:0:05:27 
 ==> auto eval:50.80, using time:0:34:36 
-==> cifar10-TAAT test finished! -->
-```
+==> cifar10-TAAT test finished!
+``` -->
 ### Train TAAT fron scratch on CIFAR-10
 ```
 sh ./train.sh
